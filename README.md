@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyanshu1283
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning lnct College 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in lnct College 
+
 - 📫 How to reach me by college friends.
 
 <!---
