@@ -11,8 +11,7 @@
 
 ### 🧠 About Me
 💡 I’m a passionate **frontend & full-stack developer** who loves crafting responsive UIs and exploring backend technologies.  
-🚀 Currently diving deeper into **MongoDB, Express, React, Node.js** (MERN Stack).  
-🎯 Building creative projects like **Moody_Player** (face-expression-based song recommender) and **Influencer Website** with beautiful animations.  
+🚀 Currently diving deeper into **MongoDB, Express, React,Nest.js, Node.js** (MERN Stack).   
 📚 Always curious to learn new tech and improve my problem-solving skills.  
 🌱 Exploring backend and deployment (Vercel, Render, etc.)
 
@@ -22,7 +21,7 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -35,6 +34,7 @@
 #### 🧩 Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🧰 Tools
@@ -62,7 +62,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Priyanshu1283"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-03310a253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -71,8 +71,4 @@
 ### 💬 Quote
 > "Code, Create, and Keep Improving 💪 — Every Bug is a Step Towards Mastery."
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu1283&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
+-----
