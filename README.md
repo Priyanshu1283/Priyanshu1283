@@ -1,10 +1,10 @@
 <!-- 👋 Hi there — I'm Priyanshu Roy -->
-<h1 align="center">Hey there 👋, I'm Priyanshu Roy</h1>
+<h1 align="center">Hey there 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">⚡ Full Stack Developer | React • Express • MongoDB • Node.js</h3>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Passionate+Frontend+Developer;MERN+Stack+Learner;Always+Building+Something+Cool+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Passionate+Frontend+Developer;MERN+Stack+Learner;Data+Stracture+And+Algorithm+Learner" alt="Typing SVG" />
 </p>
 
 ---
