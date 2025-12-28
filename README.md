@@ -22,7 +22,7 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)
-![JAVA](https://cdn.prod.website-files.com/63fda77e5fd49598bbf00892/64358005d142a37eee9ad74c_Java-Logo.png)
+![JAVA](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
