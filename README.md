@@ -1,6 +1,6 @@
 <!-- 👋 Hi there — I'm Priyanshu Roy -->
 <h1 align="center">Hey there 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">⚡ Full Stack Developer | React • Express • MongoDB • Node.js</h3>
+<h3 align="center">⚡ Full Stack Developer | Problem Solver | React • Express • MongoDB • Node.js</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -22,14 +22,13 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JAVA](https://cdn.prod.website-files.com/63fda77e5fd49598bbf00892/64358005d142a37eee9ad74c_Java-Logo.png)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Frontend
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 #### 🧩 Backend & Database
@@ -44,19 +43,12 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
-### 📈 Most Used Here
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1283&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Priyanshu1283"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/priyanshu-kumar-03310a253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,7 +57,3 @@
 > "Code, Create, and Keep Improving 💪 — Every Bug is a Step Towards Mastery."
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu1283&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
